@@ -1,6 +1,6 @@
 ## Hi there, I'm Jingyuan 👋
 
-**My site: https://rjgao1.github.io**
+## My site: https://rjgao1.github.io
 - 🇨🇦 5th year Computer Science Specialist at the University of Toronto  
 - :video_game: Ex SWE Intern at Activision  
 - :thought_balloon: Research assistant at Dr. Jang's Lab at OISE, U of T. 
