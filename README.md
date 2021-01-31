@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jingyuan 👋
 
 **My site: https://rjgao1.github.io**
 - 🇨🇦 5th year Computer Science Specialist at the University of Toronto  
