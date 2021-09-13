@@ -1,8 +1,8 @@
 ## Hi there, I'm Jingyuan 👋
 
 ## My site: https://rjgao1.github.io
-- :us: 1st year Master's student in Computer Science at Vanderbilt University
-- 🇨🇦 Hon. B.S. in Computer Science at the University of Toronto  
+- :us: M.S. in Computer Science at Vanderbilt University (May 2023)
+- 🇨🇦 Hon. B.S. in Computer Science at the University of Toronto (June 2021) 
 - :video_game: Ex SWE Intern at Activision  
 - :thought_balloon: Research assistant at Dr. Jang's Lab at OISE, U of T. 
 
